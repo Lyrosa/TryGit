@@ -1,2 +1,2 @@
 # TryGit
-Trying to connect git with atom io
+Trying to connect git with atom io.
